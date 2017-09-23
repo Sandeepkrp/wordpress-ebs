@@ -30,7 +30,7 @@ If you don't have pip, follow the instructions [here](http://docs.aws.amazon.com
 
 1. Download files in this repository.
 
-        ~$ curl https://github.com/swaddell/aws-elastic-beanstalk-wordpress-4.8.2/archive/master.zip -o wordpress-beanstalk.zip
+        ~$ curl https://github.com/swaddell/aws-elastic-beanstalk-wordpress-4.8.2/archive/wordpress-beanstalk.zip -o wordpress-beanstalk.zip
 
 2. Extract repository.
 
