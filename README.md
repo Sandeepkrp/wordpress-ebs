@@ -3,7 +3,7 @@ These instructions were tested with WordPress 4.8.2
 
 ## Install the EB CLI
 
-The EB CLI integrates with Git and simplifies the process of creating environments, deploying code changes, and connecting to the instances in your environment with SSH. You will perform all of these activites when installing and configuring WordPress.
+The EB CLI integrates with Git and simplifies the process of creating environments, deploying code changes, and connecting to the instances in your environment with SSH. You will perform all of these activities when installing and configuring WordPress.
 
 If you have pip, use it to install the EB CLI.
 
