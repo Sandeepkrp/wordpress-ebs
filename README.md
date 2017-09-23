@@ -1,0 +1,1 @@
+# aws-elastic-beanstalk-wordpress-4.8.2
